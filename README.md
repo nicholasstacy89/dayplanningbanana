@@ -91,9 +91,9 @@ This Challenge is graded based on the following criteria:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application
+* The URL of the deployed application   https://nicholasstacy89.github.io/dayplanningbanana/
 
-* The URL of the GitHub repository, with a unique name and a README describing the project
+* The URL of the GitHub repository, with a unique name and a README describing the project https://github.com/nicholasstacy89/dayplanningbanana  
 
 - - -
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
