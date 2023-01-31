@@ -32,7 +32,7 @@ $(document).ready(function () {
           
           var scheduleHour = parseInt($(this).attr("id"));
           
-          console.log(scheduleHour, currentHour);
+          console.log("schedule_hour" + scheduleHour, "current_hour" + currentHour);
           
           if (isNaN(scheduleHour)) {(scheduleHour = 0);
           }
